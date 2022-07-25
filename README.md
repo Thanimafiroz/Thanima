@@ -1,1 +1,1 @@
-# thanima
+Hii,I am an aspiring data scientist eager to leverage machine learning and data manipulation techniques to extract meaningful insights,make informed decisions and solve challenging real life problems.
